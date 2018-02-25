@@ -1,0 +1,4 @@
+Que comando comum do linux foi citado no filme popular do homem-aranha?
+
+Citação: “Com grandes poderes vêm grandes responsabilidades” – Stan Lee
+COMANDO LINUX =>  sudo
